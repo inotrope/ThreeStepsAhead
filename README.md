@@ -70,3 +70,4 @@ This is *work in progress*.
 - App icon made by [Roundicons Freebies](http://www.flaticon.com/authors/roundicons-freebies) ([CC-BY](https://creativecommons.org/licenses/by/3.0/), background added)
 - Marker icon made by [freepik](http://www.flaticon.com/authors/freepik) from www.flaticon.com
 - Zoom icons from [SatStat](https://github.com/mvglasow/satstat) by mvglasow
+- Please check the comment section! <3
